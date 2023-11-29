@@ -746,3 +746,4 @@ class TwoEntitiesOnSamePositionException extends Exception {
         return "Two entities in the same position";
     }
 }
+
